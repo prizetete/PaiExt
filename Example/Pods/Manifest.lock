@@ -1,0 +1,27 @@
+PODS:
+  - Nimble (7.0.3)
+  - PaiExt (0.1.0)
+  - Quick (1.2.0)
+
+DEPENDENCIES:
+  - Nimble (~> 7.0.2)
+  - PaiExt (from `../`)
+  - Quick (~> 1.2.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  PaiExt:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
+  PaiExt: 5bd247566505c540ce5930b3d9ca426b52dbb4fa
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+
+PODFILE CHECKSUM: 7c5839aca98d1ada57c300873b5f606582013681
+
+COCOAPODS: 1.6.0
